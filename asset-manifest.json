@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/i-top-pages/static/css/main.c52b890c.css",
+    "main.js": "/i-top-pages/static/js/main.b2898138.js",
+    "static/media/arrowdown.svg": "/i-top-pages/static/media/arrowdown.9da8dfb67a4a706ef341.svg",
+    "static/media/OpenSans-Regular.ttf": "/i-top-pages/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/i-top-pages/static/media/OpenSans-SemiBold.2f17aae884058c5a85df.ttf",
+    "static/media/two-arrow.svg": "/i-top-pages/static/media/two-arrow.5ac498b06b3bd1a9981713f73a236138.svg",
+    "static/media/logo.svg": "/i-top-pages/static/media/logo.d691d04f50784a5d701406f88d132efa.svg",
+    "index.html": "/i-top-pages/index.html",
+    "static/media/preload.svg": "/i-top-pages/static/media/preload.976e625b739d24109d4710ad9c5c4a49.svg",
+    "main.c52b890c.css.map": "/i-top-pages/static/css/main.c52b890c.css.map",
+    "main.b2898138.js.map": "/i-top-pages/static/js/main.b2898138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52b890c.css",
+    "static/js/main.b2898138.js"
+  ]
+}
